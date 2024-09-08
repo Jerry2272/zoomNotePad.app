@@ -82,7 +82,7 @@ function Login() {
             <button onClick={googleClick} className="my-1 text-center bg-slate-900 w-auto px-24 py-4 rounded-[20px]">
                 Continue with Google
             </button>
-            <a href="/signup" className="text-[12px] mt-2">Don't have an account?</a>
+            <a href="/signup" className="text-[12px] mt-2">Dont have an account?</a>
         </div>
     );
 }
